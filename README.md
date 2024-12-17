@@ -1,3 +1,3 @@
 # AI Assistant for customers
 
-This is the AI agent for customers to give AI Assistant.
+This is an AI agent for customers to give AI Assistant.
